@@ -1,0 +1,73 @@
+body
+{
+background-color:rgb(242, 243, 245);
+}
+
+#f{
+	
+	color:rgb(19, 96, 240);
+	font-size:60;
+	font-weight:bold;
+	
+	
+}
+
+#l1{
+	
+	margin-top:200px;
+	margin-left:300px;
+}
+
+#f1{
+	font-size:30;
+	font-weight:none;
+	font-style:Elephent;
+	
+}
+
+#login
+{
+	background-color:white;
+	height:280;
+	width:350;
+	position:absolute;
+	left:900;
+	top:150;
+	padding:20;
+	border-radius:20px;
+	text-align:center;
+	 box-shadow: 2px 5px;
+	
+	
+}
+
+
+
+
+input
+{
+	
+	border:50;
+	border-radius:10px;
+	height:50;
+	width:300;
+}
+
+button
+{
+	background-color:rgb(19, 96, 240);
+	border-radius:10px;
+	border-color:white;
+	color:white;
+	font-weight:bold;
+	font-size:20;
+	height:50;
+	width:300;
+	
+}
+
+a{
+	text-decoration:none;
+}
+
+
